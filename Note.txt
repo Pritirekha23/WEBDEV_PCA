@@ -1,0 +1,46 @@
+10 Jan 2024:
+
+HyperLinks and media tags:
+
+ <img>
+ <a>
+ <video>
+ <audio>
+ <iframe>
+
+NOTE:
+ "px" stands for pixels. It's a unit of measurement used to define the size of elements on a web page.
+
+Difference between <ifarme> and <a>  tag:
+ <iframe> embeds content within the current page, while <a> creates a clickable link to navigate to another page or resource.
+
+video/audio
+ <autoplay>
+ <controls>
+
+The controls and autoplay attributes in HTML are considered boolean attributes. Boolean attributes do not require a value; their presence alone indicates a true or "on" state.
+
+
+
+ Anchor tag with page Navigation:
+
+what is element:
+start tag+content+end tag
+
+
+LIST:
+<dl>:defintion of list
+<dd>:definition of data
+<dt>:definition of title
+<ul>: Unordered list.
+<ol>: Ordered list.
+<li>: List item.
+
+  
+
+
+
+
+India
+pakistan
+us
